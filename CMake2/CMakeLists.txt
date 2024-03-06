@@ -9,4 +9,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 
 include_directories("Res2/")
 
-add_executable("lab_1_01" Res2/lab_1_01)
+add_executable("lab_1_01" Lab_0_02.cpp)
