@@ -1,3 +1,0 @@
-D:/Projects/IKBFU/Lab_1_01/lab_1_01/Res2/CMakeFiles/lab_1_01.dir
-D:/Projects/IKBFU/Lab_1_01/lab_1_01/Res2/CMakeFiles/ALL_BUILD.dir
-D:/Projects/IKBFU/Lab_1_01/lab_1_01/Res2/CMakeFiles/ZERO_CHECK.dir
